@@ -1,4 +1,13 @@
-## Hi there 👋
+# QUANTUM SCIENCE GROUP 
+**Grupo de pesquisa sobre física quântica**
+
+## Integrantes do Grupo
+
+- Proj. Dr. Jiusandro Kuhn
+- Felipe Evans
+- Reinaldo Colini
+- João
+
 
 <!--
 
