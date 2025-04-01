@@ -4,8 +4,8 @@
 ## Integrantes do Grupo
 
 - Proj. Dr. Jiusandro Kuhn
-- Felipe Evans
-- Reinaldo Colini
+- Felipe Evans de Oliveira
+- Reinaldo Andre Colini Chandia
 - João
 
 
